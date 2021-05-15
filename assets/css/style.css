@@ -1,11 +1,13 @@
 body{
-    background-color: #EEE2DC;
+    background-color: #F0F0F0;
     font-family: 'Vollkorn', serif;
 }
 
 .profile-photo{
-    height: 450px;
-    width: 450px;
+    /* height: 450px;
+    width: 450px; */
+    height: 65%;
+    width: 25%;
 }
 
 .bi.bi-instagram{
