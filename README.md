@@ -1,3 +1,3 @@
 Website Portfolio
 
-Pages : https://arielziqirullah.github.io/web-personal/
+Preview : https://arielziqirullah.github.io/web-personal/
