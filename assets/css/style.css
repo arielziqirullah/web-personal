@@ -1,0 +1,9 @@
+body{
+    background-color: #EEE2DC;
+    font-family: 'Vollkorn', serif;
+}
+
+.profile-photo{
+    height: 450px;
+    width: 450px;
+}
